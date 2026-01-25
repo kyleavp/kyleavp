@@ -9,7 +9,6 @@ Cybersecurity enthusiast with a Bachelor’s degree in Computer Information Syst
 Apply networking and cybersecurity fundamentals through labs and projects while preparing for an entry-level SOC analyst position.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ Apply networking and cybersecurity fundamentals through labs and projects while 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
